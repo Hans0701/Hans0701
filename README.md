@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hans0701, I just started learning web development and I'm 16 years old.
 - 👀 I’m interested in: Web Development and Software development. Any tips are welcome!
-- 🌱 I’m currently learning: CSS and HTML which I already know the fundamentals but I wanna learn it more deep.
+- 🌱 I’m currently learning: CSS and HTML/HTML5 which I already know the fundamentals but I wanna learn it more deep.
 - 💞️ I’m looking to collaborate on a project with someone who knows how to develop webs so I can learn from him/her.
 - 📫 You can reach me on my mail: Hansdelarosa072009@gmail.com
 - 😄 Pronouns: He/Him.
